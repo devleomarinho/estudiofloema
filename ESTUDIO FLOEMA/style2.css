@@ -1871,7 +1871,8 @@ margin: auto;
 
 .bottom-slider{
     width: 100vw;
-   
+    overflow-x: scroll;
+    scrollbar-width:  none;
 }
 
 
